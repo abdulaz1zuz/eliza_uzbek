@@ -205,9 +205,6 @@ gPats = [
     "Buni aytganingizda o'zingizni qanday his qilasiz?"]]
   ]
 
-#----------------------------------------------------------------------
-#  command_interface
-#----------------------------------------------------------------------
 def command_interface():
   print('Men Ozbek tilida gaplasha oladigan Elizaman')
   print('Hayr amali bilan tugata olasiz.')
